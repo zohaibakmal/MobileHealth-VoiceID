@@ -1,0 +1,3 @@
+recursive-include share *
+recursive-include doc *
+recursive-exclude doc/build *

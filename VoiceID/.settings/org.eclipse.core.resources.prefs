@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/tests/__init__.py=utf-8
+encoding//src/voiceid/__init__.py=utf-8
+encoding//src/voiceid/db.py=utf-8
+encoding//src/voiceid/fm.py=utf-8
+encoding//src/voiceid/sr.py=utf-8
